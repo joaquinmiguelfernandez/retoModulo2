@@ -16,7 +16,7 @@ for numero in numeros {
         print("# \(numero) Bingo!!!")
     }
     
-    if numero > 30 && numero < 40 {
+    if numero >= 30 && numero <= 40 {
         print("# \(numero) Viva Swift!!!")
     }
 
